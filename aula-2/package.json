@@ -1,0 +1,19 @@
+{
+  "name": "aula-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.0",
+    "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "@types/node": "^18.15.3",
+    "prompt-sync": "^4.2.0"
+  }
+}
